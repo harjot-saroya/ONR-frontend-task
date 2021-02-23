@@ -1,0 +1,38 @@
+.chart {
+  text-align: center;
+}
+
+.chart p {
+  position: relative;
+  left: 4%;
+}
+
+.gaugeInfo {
+  font-size: 2em;
+  line-height: 1em;
+  font-weight: 250;
+  font-feature-settings: "'zero', 'tnum' 1";
+}
+
+#title {
+  margin-right: 1em;
+}
+
+#label {
+  color: #96b6dd;
+  text-align: center;
+  font-size: large;
+  margin-right: 5%;
+  margin-top: 20%;
+  margin-bottom: 0;
+  font-weight: 20;
+}
+
+#sample {
+  text-align: center;
+  font-size: large;
+  margin-right: 5%;
+  margin-top: 20%;
+  margin-bottom: 0;
+  font-weight: 20;
+}

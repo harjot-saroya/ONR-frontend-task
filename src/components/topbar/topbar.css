@@ -1,0 +1,33 @@
+.topbar {
+  display: flex;
+  flex-direction: row;
+  background-color: #2d71c0;
+  width: 100%;
+  height: 4em;
+}
+.settings {
+  margin-left: 57%;
+  display: flex;
+  flex-direction: row;
+}
+.vl {
+  margin-top: 2%;
+  margin-left: 4%;
+  border-left: 2px solid gray;
+  height: 40px;
+}
+#header {
+  font-size: large;
+  padding-left: 1em;
+  color: white;
+}
+
+#login {
+  text-align: center;
+}
+
+#msg {
+  overflow: hidden;
+  white-space: nowrap;
+  color: white;
+}

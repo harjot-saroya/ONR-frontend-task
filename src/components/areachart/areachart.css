@@ -1,0 +1,14 @@
+.dateBar {
+  display: flex;
+  flex-direction: row;
+}
+#qst {
+  font-size: medium;
+  font-weight: 100;
+  margin: 10%;
+  white-space: nowrap;
+}
+
+.areachart {
+  width: 30%;
+}
